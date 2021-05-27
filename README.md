@@ -1,0 +1,25 @@
+# Data Structures and Algorithms CheatSheet
+
+- Data Structures
+  - Linear Data Structures
+    - [Array](docs/datastructures/lineardatastructures/array.md)
+    - [Node](docs/datastructures/lineardatastructures/node.md)
+    - [Linked List](docs/lineardatastructures/linkedlist.md)
+    - [Doubly Linked List](docs/lineardatastructures/doublylinkedlist.md)
+    - [Queue](docs/datastructures/lineardatastructures/queue.md)
+    - [Stack](docs/datastructures/lineardatastructures/stack.md)
+    - [Hash Table](docs/datastructures/lineardatastructures/hashtable.md)
+  - Non Linear Data Structures
+    - [Tree](docs/datastructures/nonlineardatastructures/trees.md)
+    - [Binary Search Tree](docs/datastructures/nonlineardatastructures/binarysearchtree.md)
+      - [AVL Tree](docs/datastructures/nonlineardatastructures/avltree.md)
+      - [Red-Black Tree](docs/datastructures/nonlineardatastructures/redblacktree.md)
+    - [Heap](docs/datastructures/nonlineardatastructures/heap.md)
+    - [Graph](docs/datastructures/nonlineardatastructures/graph.md)
+  - Algorithms
+    - Search Algorithms
+      - [Linear Search](docs/algorithms/searching/linearsearch.md)
+      - [Binary Search](docs/algorithms/searching/binarysearch.md)
+      - [Breadth First Search](docs/algorithms/searching/breadthfirstsearch.md)
+      - [Depth First Search](docs/algorithms/searching/depthfirstsearch.md)
+      - [Djikstra's Algorithm](djikstrasalgorithm.md)
